@@ -1,0 +1,47 @@
+User
+	id
+	name
+	pass
+	phone 
+	gmail
+
+Bus
+	id
+	name
+	capacity
+	cost per kilometer
+		
+Station 
+	id	
+	name
+	
+Bookings
+	id
+	bus id
+	cost
+	boarding station id
+	arrival station id
+	booking date
+	journey date
+
+Routes
+	station id
+	bus id
+	position
+	distance from start
+	arrival time
+	depature time
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
